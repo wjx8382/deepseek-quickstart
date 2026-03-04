@@ -19,3 +19,6 @@ pymilvus[model]==2.5.10
 torch==2.7.0
 # CPU版本
 # torch==2.7.0+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+
+# 游戏开发
+pygame==2.6.1
